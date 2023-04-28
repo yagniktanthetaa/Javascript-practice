@@ -1,0 +1,14 @@
+condt copyToClipboard = (text) => {
+navigator.clipboard?.writeText && navigator.clipboard?.writeText(text)
+}
+
+
+
+
+
+// let myString = 'abababc';
+// let result = {};
+// for (let str of myString) {
+//   result[str] = result.hasOwnProperty(str) ? result[str] + 1 : 1;
+// }
+// console.log(result);

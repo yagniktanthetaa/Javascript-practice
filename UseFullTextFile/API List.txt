@@ -1,0 +1,11 @@
+https://api.xrpldata.com/docs/static/index.html  ===> XRPL_Public_api
+
+
+https://api.opencnft.io/1/ ===> Cardano_Public_api
+
+
+
+
+
+
+
